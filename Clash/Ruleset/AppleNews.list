@@ -1,5 +1,15 @@
 # 内容：AppleNews
-# 数量：3条
+# 数量：12条
+
+DOMAIN-SUFFIX,apple.news
+DOMAIN,apple.comscoreresearch.com
+DOMAIN,gateway.icloud.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,news-assets.apple.com
+DOMAIN,news-client-search.apple.com
+DOMAIN,news-client.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,news-events.apple.com
+PROCESS-NAME,news
 USER-AGENT,AppleNews*
 USER-AGENT,com.apple.news*
-DOMAIN,gspe1-ssl.ls.apple.com

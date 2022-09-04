@@ -40,11 +40,6 @@ DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,pv-cdn.net
 URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
 
-# AppleNews
-USER-AGENT,AppleNews*
-USER-AGENT,com.apple.news*
-DOMAIN,gspe1-ssl.ls.apple.com
-
 # AppleTV
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,play-edge.itunes.apple.com
